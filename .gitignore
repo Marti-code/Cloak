@@ -1,0 +1,92 @@
+# Visual Studio
+.vscode/
+*.code-workspace
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vscode/
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# Linux generated files
+*~
+.#*
+*.swp
+*.*~
+*.swo
+
+# Compiled Object files
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+*.pch
+*.gch
+*.cmake
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lib
+*.a
+*.lai
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Qt Creator
+*.autosave
+*.pro.user*
+*.pro.user
+*.qbs.user
+*.qbs.user.*
+*.moc
+*.obj
+*.qmlc
+*.rcc
+*.qmlproject.user
+*.qmlproject.user.*
+
+# Qt binary
+*.qmake.stash
+*.qmake.cache
+*.pro.user*
+
+# QtCreator crash
+*.QTCREATOR
